@@ -1,0 +1,2 @@
+# Netflix-Content-Analytics-Dashboard-Power-BI
+Built an interactive Power BI dashboard analyzing 5,283 Netflix movies &amp; TV shows (1953–2022) using slicers, KPI cards, and multi-chart visuals. Visualized IMDb scores, votes, runtime trends, and age-certification patterns to reveal content performance and engagement insights. Applied data modeling and DAX measures for a clean filterable dashboard.
